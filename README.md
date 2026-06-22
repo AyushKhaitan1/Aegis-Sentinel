@@ -1,4 +1,3 @@
-```markdown
 # Aegis Sentinel: AI-Powered Industrial Safety Intelligence Platform
 
 [![React](https://img.shields.io/badge/React-19.0-blue?logo=react&logoColor=white)](https://react.dev)
@@ -101,3 +100,4 @@ Aegis Sentinel maps live operations directly to Indian statutory codes:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
+
